@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif; /* Use the appropriate font-family */
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Set your desired background color */
+}
+
+header {
+    background-color: #333; /* Set header background color */
+    color: #fff; /* Set header text color */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+
+}
+
+h2 {
+    color: #333; /* Set heading text color */
+}
+
+p {
+    color: #666; /* Set paragraph text color */
+}
+
+footer {
+    background-color: #333; /* Set footer background color */
+    color: #fff; /* Set footer text color */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
